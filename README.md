@@ -1,4 +1,4 @@
-# Data Scientist
+# Ellora is the best
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
