@@ -1,4 +1,4 @@
-# Ellora is the best
+# Ellora is the best she can do anything 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
